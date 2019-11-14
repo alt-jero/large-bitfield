@@ -1,0 +1,26 @@
+{
+  "name": "large-bitfield",
+  "version": "1.0.0",
+  "description": "Use node.js Buffer as a bitfield for storing lots of bools",
+  "main": "LargeBitfield.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-jero/large-bitfield.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Jeremy Rumble",
+    "email": "jero.rumble@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alt-jero/large-bitfield/issues"
+  },
+  "homepage": "https://github.com/alt-jero/large-bitfield#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
